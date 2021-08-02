@@ -7,5 +7,7 @@ I got to assemble and code an atmega328pu Micro controller to read data from an 
 - [ ] Male to Female Jumpers
 - [ ] RFID Tag 
 - [ ] RFID Card Reader
-- [ ] A PC ### Software
+- [ ] A PC
+
+### Software
 - [ ] Arduino IDE
