@@ -13,7 +13,7 @@ I got to assemble and code an atmega328pu Micro controller to read data from an 
 6 Upload the Code to your Arduino
 
 
-## Usage
+## Project Summary
 
 ```python
 Interface : SPI, Serial
