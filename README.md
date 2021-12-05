@@ -33,7 +33,7 @@ Breadboarding Only (no PCB Designed)
 
 ## Contributing
 Feel free to contribute to this repo.
-Please make sure to update appropriately 
+Please make sure you update appropriately 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
