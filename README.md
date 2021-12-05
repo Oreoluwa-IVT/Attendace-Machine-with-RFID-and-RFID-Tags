@@ -32,8 +32,8 @@ Breadboarding Only (no PCB Designed)
 ```
 
 ## Contributing
-You're more that welcome to contribute to this repo.
-Please make sure to update tests as appropriate.
+Feel free to contribute to this repo.
+Please make sure to update appropriately 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
