@@ -1,14 +1,39 @@
 # Capture Attendance Using An RFID Reader and RFID Tags
+
 I got to assemble and code an atmega328pu Micro controller to read data from an RFID Tag with a few friends. 
 (clone this repo and run "Arduino C" file on your Arduino IDE)
-### Hardware
-- [ ] Liquid Crystal Display ( 16 x 2) 
-- [ ] Micro Controller (ATMEGA328P-PU)
-- [ ] BreadBoard
-- [ ] Male to Female Jumpers
-- [ ] RFID Tag 
-- [ ] RFID Card Reader
-- [ ] A PC
 
-### Software
-- [ ] Arduino IDE
+## Installation
+
+1 Download the Arduino IDE and Install the software on your PC/Mac. 
+2 Clone this Repo.
+3 Copy and Paste the Embedded C Code into your Arduino IDE 
+4 Set Up your Circuit on a breadboard
+5 Compile the Pasted Code and Arduino IDE 
+6 Upload the Code to your Arduino
+
+
+## Usage
+
+```python
+Interface : SPI, Serial
+
+# Hardware 
+1 Arduino Development Board
+2 Mifare RC522 Card Reader
+3 RFUD Tag/Card
+4 LCD 16x2
+
+# Software
+Arduino IDE (Integrated Development Environment)
+
+# Developmental Stage
+Breadboarding Only (no PCB Designed)
+```
+
+## Contributing
+You're more that welcome to contribute to this repo.
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
