@@ -1,9 +1,8 @@
 # Capture Attendance Using An RFID Reader and RFID Tags
 
 I got to assemble and code an atmega328pu Micro controller to read data from an RFID Tag with a few friends. 
-(clone this repo and run "Arduino C" file on your Arduino IDE)
 
-## Installation
+## Installation Process
 
 1 Download the Arduino IDE and Install the software on your PC/Mac. 
 2 Clone this Repo.
