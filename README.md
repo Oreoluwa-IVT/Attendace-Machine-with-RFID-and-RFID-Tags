@@ -15,7 +15,7 @@ I got to assemble and code an atmega328pu Micro controller to read data from an 
 ## Project Summary
 
 ```python
-Interface : SPI, Serial
+Interfaces : SPI, Serial
 
 # Hardware 
 1 Arduino Development Board
