@@ -20,7 +20,7 @@ Interfaces : SPI, Serial
 # Hardware 
 1 Arduino Development Board
 2 Mifare RC522 Card Reader
-3 RFUD Tag/Card
+3 RFID Tag/Card
 4 LCD 16x2
 
 # Software
