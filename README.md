@@ -29,5 +29,14 @@ Breadboarding Only (no PCB Designed)
 Feel free to contribute to this repo.
 Please make sure you update appropriately 
 
+## Breadboarding Preview
+| No Action       | Scan    | Valid Response | Invalid Response |
+|--------------|-----------|------------|------------|
+| ![image](https://user-images.githubusercontent.com/75027292/186195075-b0260ed7-fc45-40ce-b802-75138fc597d8.png) | ![image](https://user-images.githubusercontent.com/75027292/186196397-57a522c8-738e-4e16-b0f6-cc4aef210e46.png)    |![image](https://user-images.githubusercontent.com/75027292/186196571-d3178746-b772-4462-bc96-4ebe76cb4f93.png)       | ![image](https://user-images.githubusercontent.com/75027292/186197297-cc7d2146-ee43-42e5-ade4-61084f335570.png)
+ 
+
+
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
