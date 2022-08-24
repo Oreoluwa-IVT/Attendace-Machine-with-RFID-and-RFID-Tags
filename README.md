@@ -1,6 +1,6 @@
 # Using RFID Tags
 
-###### This project aims to make census and attendace capturing easier. Here, student RFID tags are used rather than writing.
+###### This project aims to make census and attendace capturing easier. Here, students RFID tags are used rather than writing.
 
 ## Installation Process
 
