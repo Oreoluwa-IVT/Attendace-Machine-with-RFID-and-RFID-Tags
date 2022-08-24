@@ -1,6 +1,6 @@
 # Using RFID Tags
 
-###### I got to assemble and code an atmega328pu Micro controller to read data from an RFID Tag with a few friends. 
+###### This project aims to make census and attendace capturing easier. Here, student RFID tags are used rather than writing.
 
 ## Installation Process
 
